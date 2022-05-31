@@ -1,16 +1,44 @@
-### Hi there 👋
+### 👋 Hi there! I'm Derian Pinto
 
-<!--
-**pintoderian/pintoderian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/mishaec95-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mishaec95/)
+[![Twitter](https://img.shields.io/badge/pintoderian-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/pintoderian/)
+[![Linkedin](https://img.shields.io/badge/pintoderian-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pintoderian//)
+[![github](https://img.shields.io/badge/pintoderian-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pintoderian/)
+![](https://komarev.com/ghpvc/?username=pintoderian&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
-Here are some ideas to get you started:
+```js
+const aboutMe = {
+   code: [Javascript, Typescript, HTML, CSS, PHP],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Vue", "Next", "Nuxt"],
+         css: ["Tailwind", "Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         php: ["Laravel", "CodeIgniter", "Drupal", "Wordpress"],
+      },
+      databases: ["Postgres", "MYSQL", "SQLServer"],
+      mobile: ["Android"]
+   },
+   currentOccupation: ["Web developer for eluniverso.com"]
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+
+### 📊 Github stats
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="pintoderian's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=pintoderian&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="pintoderian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintoderian&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a></p>
+</details>
+
+<details>
+  <summary>📈 Activity Graph</summary>
+  <br/>
+<p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="pintoderian's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=pintoderian&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a></p>
+</details>
+
