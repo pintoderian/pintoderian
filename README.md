@@ -1,29 +1,51 @@
-### 👋 Hi there! I'm Derian Pinto
+# ¡Hola! 👋 Soy Derian
 
-[![Instagram](https://img.shields.io/badge/mishaec95-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mishaec95/)
-[![Twitter](https://img.shields.io/badge/pintoderian-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/pintoderian/)
+[![Twitter](https://img.shields.io/badge/dpintoec-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/dpintoec/)
 [![Linkedin](https://img.shields.io/badge/pintoderian-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pintoderian//)
 [![github](https://img.shields.io/badge/pintoderian-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pintoderian/)
 ![](https://komarev.com/ghpvc/?username=pintoderian&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
-```js
-const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, PHP],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Vue", "Next", "Nuxt"],
-         css: ["Tailwind", "Bootstrap", "Material Design"]
-      },
-      backEnd: {
-         js: ["Node", "Express"],
-         php: ["Laravel", "CodeIgniter", "Drupal", "Wordpress"],
-      },
-      databases: ["Postgres", "MYSQL", "SQLServer"],
-      mobile: ["Android"]
-   },
-   currentOccupation: ["Web developer for eluniverso.com"]
-};
-```
+
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador full stack con experiencia en diversas tecnologías. Aquí encontrarás información sobre mis habilidades, tecnologías preferidas. ¡Echa un vistazo y no dudes en ponerte en contacto!
+
+## Acerca de mí
+
+- Experiencia en:
+
+  - **Frontend:**
+    - React, Vue, Next, Nuxt.
+    - Estilos: Tailwind, Bootstrap, Material Design.
+
+  - **Backend:**
+    - Node.js, Express, Strapi, Directus.
+    - Laravel, CodeIgniter, Drupal, WordPress.
+
+  - **Bases de datos:**
+    - Postgres, MySQL, SQLServer.
+
+  - **Desarrollo móvil:**
+    - Android.
+
+## Proyectos Actuales
+
+1. [CodeGea](https://codegea.com)
+   - Explora nuevas perspectivas en el mundo del desarrollo web, web scraping y la creación de landing pages y tiendas online con CodeGea. Transforma tu presencia digital y destaca en la web con soluciones innovadoras que aprovechan las últimas tecnologías y estrategias. Descubre cómo CodeGea puede potenciar tu proyecto en línea.
+
+2. [Mi Carta Numerológica](https://micartanumerologica.com)
+   - Sumérgete en la exploración de tu destino a través de la numerología con Mi Carta Numerológica Online. Descubre nuevas posibilidades para expandir tu negocio con nuestro sistema de cartas numerológicas, diseñado especialmente para numerólogos. Únete a nosotros y desbloquea el poder de la numerología para revelar tu camino y potenciar tu emprendimiento.
+
+## Conoce Más
+
+Para obtener más información sobre mí, visita mi sitio web personal: [dpinto.dev](https://dpinto.dev).
+
+## Contacto
+
+¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes encontrarme en:
+
+- LinkedIn: [pintoderian](https://www.linkedin.com/in/pintoderian/)
+- Sitio web: [dpinto.dev](https://dpinto.dev)
+
+¡Gracias por visitar mi perfil!
 
 --- 
 
