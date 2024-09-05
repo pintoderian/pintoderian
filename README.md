@@ -31,9 +31,6 @@
 1. [CodeGea](https://codegea.com)
    - Explora nuevas perspectivas en el mundo del desarrollo web, web scraping y la creación de landing pages y tiendas online con CodeGea. Transforma tu presencia digital y destaca en la web con soluciones innovadoras que aprovechan las últimas tecnologías y estrategias. Descubre cómo CodeGea puede potenciar tu proyecto en línea.
 
-2. [Mi Carta Numerológica](https://micartanumerologica.com)
-   - Sumérgete en la exploración de tu destino a través de la numerología con Mi Carta Numerológica Online. Descubre nuevas posibilidades para expandir tu negocio con nuestro sistema de cartas numerológicas, diseñado especialmente para numerólogos. Únete a nosotros y desbloquea el poder de la numerología para revelar tu camino y potenciar tu emprendimiento.
-
 ## Conoce Más
 
 Para obtener más información sobre mí, visita mi sitio web personal: [dpinto.dev](https://dpinto.dev).
